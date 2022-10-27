@@ -1,4 +1,4 @@
-package com.company.OOP;
+package com.company.OOP.Inheritance;
 
 public class Student extends Person { // Clasa
     public Integer course;

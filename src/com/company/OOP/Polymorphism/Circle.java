@@ -1,4 +1,4 @@
-package com.company.Polymorphism;
+package com.company.OOP.Polymorphism;
 
 public class Circle extends Shape{
     public void draw(){
