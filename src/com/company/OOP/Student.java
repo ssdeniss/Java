@@ -12,7 +12,7 @@ public class Student extends Person { // Clasa
         this.name = name;
     }
 
-    public void data() { // Metoda
+    public void data() { // Overwriting
         System.out.println("Course " + course);
         super.data();
     }
